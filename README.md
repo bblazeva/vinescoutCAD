@@ -1,4 +1,4 @@
-# VinescoutCAD]
+# VineScoutCAD
 This repository contains CAD files for the VineScout mobile robotic platform. It includes both individual and assembled components in Autodesk Inventor 2024 and SolidWorks 2022 formats.
 ![VineScout Robot](model.png)
 
